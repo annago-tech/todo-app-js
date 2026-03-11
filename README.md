@@ -1,3 +1,4 @@
+HEAD
 # To-Do List App
 
 A simple web-based To-Do List application built with **HTML, CSS, and JavaScript**.
@@ -38,3 +39,7 @@ Tasks are stored in the browser using `localStorage`, allowing them to persist e
 ## Author
 
 Built as a learning project while studying JavaScript and Web3 development.
+
+# todo-app-js
+Simple web-based to-do list app built with HTML, CSS and JavaScript.
+d7e33fe13bebcaeb5fe8b2035e1f620d5efccd5c
