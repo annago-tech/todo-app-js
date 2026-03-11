@@ -34,7 +34,7 @@ Tasks are stored in the browser using `localStorage`, allowing them to persist e
 
 ## Live Demo
 
-[View the live app here](https://github.com/annago-tech/todo-app-js)  
+[View the live app here] https://annago-tech.github.io/todo-app-js/  
 
 ## Author
 
